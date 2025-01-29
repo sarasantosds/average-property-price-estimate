@@ -11,5 +11,5 @@ De forma resumida, por enquanto, cito abaixo assuntos e técnicas que aprendi co
 - Realizar correlação de dados
 - Coletar amostra estratificada
 - Fazer combinações entre os dados
-  
+- Criar Pipeline de dados
 **O projeto segue sendo elaborado**
